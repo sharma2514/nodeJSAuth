@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  background-color: lightgrey;
+}
+body #layout-body {
+  min-height: 75vh;
+}
